@@ -1,15 +1,14 @@
-import logo from './GPRSTechAI.png';
 import './App.css';
+import Header from './Header';
+import Body from './Body';
+import Footer from './Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          GPRS TechaAI Under Construction 
-        </p>
-      </header>
+    <div>
+      <Header />
+      <Body />
+      <Footer />
     </div>
   );
 }
