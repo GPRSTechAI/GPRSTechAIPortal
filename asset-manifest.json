@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gprstechai/static/css/main.b5d83751.css",
-    "main.js": "/gprstechai/static/js/main.7c60223f.js",
-    "static/js/453.c45bef7e.chunk.js": "/gprstechai/static/js/453.c45bef7e.chunk.js",
-    "static/media/GPRSTechAI.png": "/gprstechai/static/media/GPRSTechAI.bc7b0d30ef54a74757f4.png",
-    "index.html": "/gprstechai/index.html",
-    "main.b5d83751.css.map": "/gprstechai/static/css/main.b5d83751.css.map",
-    "main.7c60223f.js.map": "/gprstechai/static/js/main.7c60223f.js.map",
-    "453.c45bef7e.chunk.js.map": "/gprstechai/static/js/453.c45bef7e.chunk.js.map"
+    "main.css": "/gprstech/static/css/main.b5d83751.css",
+    "main.js": "/gprstech/static/js/main.3355f807.js",
+    "static/js/453.c45bef7e.chunk.js": "/gprstech/static/js/453.c45bef7e.chunk.js",
+    "static/media/GPRSTechAI.png": "/gprstech/static/media/GPRSTechAI.bc7b0d30ef54a74757f4.png",
+    "index.html": "/gprstech/index.html",
+    "main.b5d83751.css.map": "/gprstech/static/css/main.b5d83751.css.map",
+    "main.3355f807.js.map": "/gprstech/static/js/main.3355f807.js.map",
+    "453.c45bef7e.chunk.js.map": "/gprstech/static/js/453.c45bef7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5d83751.css",
-    "static/js/main.7c60223f.js"
+    "static/js/main.3355f807.js"
   ]
 }
