@@ -3,7 +3,7 @@ import React from "react";
 
 function template() {
   return (
-    <main style={{ padding: '20px' }}>
+    <main className="main" >
     <h2>Welcome to GPRStechAI</h2>
     <p>Your partner in cutting-edge AI solutions.</p>
     
