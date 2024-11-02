@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gprstechai/static/css/main.b5d83751.css",
-    "main.js": "/gprstechai/static/js/main.7c60223f.js",
+    "main.js": "/gprstechai/static/js/main.4019ae47.js",
     "static/js/453.c45bef7e.chunk.js": "/gprstechai/static/js/453.c45bef7e.chunk.js",
-    "static/media/GPRSTechAI.png": "/gprstechai/static/media/GPRSTechAI.bc7b0d30ef54a74757f4.png",
+    "static/media/logo.svg": "/gprstechai/static/media/logo.4e77315b9b68320feb7fc82514b31d7d.svg",
     "index.html": "/gprstechai/index.html",
     "main.b5d83751.css.map": "/gprstechai/static/css/main.b5d83751.css.map",
-    "main.7c60223f.js.map": "/gprstechai/static/js/main.7c60223f.js.map",
+    "main.4019ae47.js.map": "/gprstechai/static/js/main.4019ae47.js.map",
     "453.c45bef7e.chunk.js.map": "/gprstechai/static/js/453.c45bef7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5d83751.css",
-    "static/js/main.7c60223f.js"
+    "static/js/main.4019ae47.js"
   ]
 }
