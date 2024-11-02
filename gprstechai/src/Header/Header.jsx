@@ -1,7 +1,8 @@
-import React from 'react';
-import logo from './GPRSTechAI.png';
+import "./Header.css";
+import logo from "../logo.svg";
+import React from "react";
 
-function Header() {
+function template() {
   return (
     <header style={{ background: '#282c34', padding: '20px', color: 'white' }}>
       <h1><img src={logo} className="App-logo" alt="logo" />   GPRS Tech AI </h1>
@@ -12,6 +13,6 @@ function Header() {
       </nav>
     </header>
   );
-}
+};
 
-export default Header;
+export default template;
