@@ -9,12 +9,12 @@ function template() {
 
     <div className="mx-auto max-w-6xl px-4 sm:px-6 pb-12 md:pb-20 text-center">
     <h2 className="text-4xl font-bold text-indigo-600 mb-8">
-      Enhance Your Workflow
+      Projects We Build
     </h2>
     <p className="text-indigo-400 mb-10">
-      Discover the tools and processes that streamline your product development journey.
+    Explore our proven solutions and tools that have powered successful projects and streamlined product development for our clients
     </p>
-    <Row className="grid max-w-sm gap-6 mx-auto lg:max-w-none lg:grid-cols-3">
+    <Row className="grid max-w-sm gap-6 mx-auto lg:max-w-none lg:grid-cols-3 mt-12">
       {cardData.map((card) => (
         <Col key={card.id}>
           <Card className="mb-4 shadow-lg hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300" style={{ width: "30rem" }}>
