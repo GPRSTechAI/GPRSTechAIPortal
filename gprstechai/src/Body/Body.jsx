@@ -1,9 +1,10 @@
 import "./Body.css";
 import React from "react";
+import Project from "../Body/projects/project";
 
 function template() {
   return (
-    <main className="main" >
+    <main className="main-container" style={{ padding: '20px' }}>
     <h2>Welcome to GPRStechAI</h2>
     <p>Your partner in cutting-edge AI solutions.</p>
     
@@ -16,7 +17,9 @@ function template() {
         <li>Custom Software Development</li>
       </ul>
     </section>
-    
+    {/* Project Section Starts */}
+    < Project />
+    {/* Project Section End */}
     <section id="about">
       <h3>About Us</h3>
       <p>GPRTechAI is dedicated to providing innovative AI technologies that empower businesses to thrive.</p>
